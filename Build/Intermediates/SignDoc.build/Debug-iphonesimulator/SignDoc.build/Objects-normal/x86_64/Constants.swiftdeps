@@ -1,0 +1,182 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NUMBER_ZERO"
+- "NUMBER_ONE"
+- "NUMBER_TWO"
+- "NUMBER_THREE"
+- "NUMBER_FOUR"
+- "NUMBER_FIVE"
+- "WIDTH_WINDOW_FRAME"
+- "HEIGHT_WINDOW_FRAME"
+- "kCLEAR_COLOR"
+- "kBLACK_COLOR"
+- "kGRAY_COLOR"
+- "kGRAY_COLOR2"
+- "kWHITE_COLOR"
+- "kBLUE_COLOR"
+- "kSUB_TEXT_COLOR"
+- "kWHITE_COLOR2"
+- "kLINEN_COLOR"
+- "kSEA_SHELL_COLOR"
+- "kSEA_SHELL_COLOR2"
+- "kSNOW_COLOR"
+- "kGREEN_COLOR"
+- "kRED_COLOR"
+- "kPINK_COLOR"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "/"
+- "FloatLiteralType"
+- "HEIGHT_WINDOW_FRAME"
+- "IntegerLiteralType"
+- "NUMBER_FIVE"
+- "NUMBER_FOUR"
+- "NUMBER_ONE"
+- "NUMBER_THREE"
+- "NUMBER_TWO"
+- "NUMBER_ZERO"
+- "UIColor"
+- "UIScreen"
+- "WIDTH_WINDOW_FRAME"
+- "kBLACK_COLOR"
+- "kBLUE_COLOR"
+- "kCLEAR_COLOR"
+- "kGRAY_COLOR"
+- "kGRAY_COLOR2"
+- "kGREEN_COLOR"
+- "kLINEN_COLOR"
+- "kPINK_COLOR"
+- "kRED_COLOR"
+- "kSEA_SHELL_COLOR"
+- "kSEA_SHELL_COLOR2"
+- "kSNOW_COLOR"
+- "kSUB_TEXT_COLOR"
+- "kWHITE_COLOR"
+- "kWHITE_COLOR2"
+depends-member:
+- ["Ps9AnyObject", "bounds"]
+- ["Ps9AnyObject", "clear"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "main"]
+- ["Ps9AnyObject", "white"]
+- ["VSC6CGRect", "size"]
+- ["VSC6CGSize", "height"]
+- ["VSC6CGSize", "width"]
+- ["Ps7CVarArg", "bounds"]
+- ["Ps7CVarArg", "clear"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "main"]
+- ["Ps7CVarArg", "white"]
+- ["Ps28CustomDebugStringConvertible", "bounds"]
+- ["Ps28CustomDebugStringConvertible", "clear"]
+- ["Ps28CustomDebugStringConvertible", "height"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "main"]
+- ["Ps28CustomDebugStringConvertible", "size"]
+- ["Ps28CustomDebugStringConvertible", "white"]
+- ["Ps28CustomDebugStringConvertible", "width"]
+- ["Ps29CustomPlaygroundQuickLookable", "height"]
+- ["Ps29CustomPlaygroundQuickLookable", "size"]
+- ["Ps29CustomPlaygroundQuickLookable", "width"]
+- ["Ps17CustomReflectable", "height"]
+- ["Ps17CustomReflectable", "size"]
+- ["Ps17CustomReflectable", "width"]
+- ["Ps23CustomStringConvertible", "bounds"]
+- ["Ps23CustomStringConvertible", "clear"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "main"]
+- ["Ps23CustomStringConvertible", "white"]
+- ["Ps9Equatable", "bounds"]
+- ["Ps9Equatable", "clear"]
+- ["Ps9Equatable", "height"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "main"]
+- ["Ps9Equatable", "size"]
+- ["Ps9Equatable", "white"]
+- ["Ps9Equatable", "width"]
+- ["Ps8Hashable", "bounds"]
+- ["Ps8Hashable", "clear"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "main"]
+- ["Ps8Hashable", "white"]
+- ["PSo8NSCoding", "clear"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "white"]
+- ["PSo9NSCopying", "clear"]
+- ["PSo9NSCopying", "init"]
+- ["PSo9NSCopying", "white"]
+- ["CSo8NSObject", "bounds"]
+- ["CSo8NSObject", "clear"]
+- ["CSo8NSObject", "main"]
+- ["CSo8NSObject", "white"]
+- ["PSo16NSObjectProtocol", "bounds"]
+- ["PSo16NSObjectProtocol", "clear"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "main"]
+- ["PSo16NSObjectProtocol", "white"]
+- ["PSo14NSSecureCoding", "clear"]
+- ["PSo14NSSecureCoding", "init"]
+- ["PSo14NSSecureCoding", "white"]
+- ["CSo7UIColor", "clear"]
+- ["CSo7UIColor", "init"]
+- ["CSo7UIColor", "white"]
+- ["CSo8UIScreen", "bounds"]
+- ["CSo8UIScreen", "main"]
+- ["PSo18UITraitEnvironment", "bounds"]
+- ["PSo18UITraitEnvironment", "main"]
+- ["Ps26_ExpressibleByColorLiteral", "clear"]
+- ["Ps26_ExpressibleByColorLiteral", "init"]
+- ["Ps26_ExpressibleByColorLiteral", "white"]
+- ["Ps9_Hashable", "bounds"]
+- ["Ps9_Hashable", "clear"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "main"]
+- ["Ps9_Hashable", "white"]
+- ["Ps21_ObjectiveCBridgeable", "height"]
+- ["Ps21_ObjectiveCBridgeable", "size"]
+- ["Ps21_ObjectiveCBridgeable", "width"]
+depends-nominal:
+- "Ps9AnyObject"
+- "VSC6CGRect"
+- "VSC6CGSize"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo7UIColor"
+- "CSo8UIScreen"
+- "PSo18UITraitEnvironment"
+- "Ps26_ExpressibleByColorLiteral"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode8.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.apinotesc"
+interface-hash: "95ad056f3553eeeb837608394139ffd0"
